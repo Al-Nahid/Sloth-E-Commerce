@@ -1,0 +1,26 @@
+.home-bg-secondary{
+    background-color: #fcdad7;
+}
+.categories img{
+    width: 100px;
+}
+.button-buy-now{
+    background-image: linear-gradient(#f89dc0,#cf0161 );
+    color: white;
+    border-radius: 8px;
+    padding: 10px 25px;
+    border: none;
+    width: 35%;
+}
+figure {
+    background-image: linear-gradient( #f8a39c ,#fcfafb );
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 356px;
+    border-radius: 5px;
+}
+figure :hover{
+    opacity: 0.5;
+    transition:all 0.9s ease-in-out ;
+}
